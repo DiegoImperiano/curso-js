@@ -29,7 +29,7 @@ Ao todo são 4 exercícios:
 <p align="center">
 
 _Analisador de array:_
-<img src=".github/analisadorArray.png"/>
+<img src=".github/array.png"/>
 
 _Contador:_
 <img src=".github/contador.png"/>
